@@ -1,0 +1,7 @@
+C:\Users\Boris\source\repos\dvaXML\dvaXML\bin\Debug\dvaXML.exe.config
+C:\Users\Boris\source\repos\dvaXML\dvaXML\bin\Debug\dvaXML.exe
+C:\Users\Boris\source\repos\dvaXML\dvaXML\bin\Debug\dvaXML.pdb
+C:\Users\Boris\source\repos\dvaXML\dvaXML\obj\Debug\dvaXML.csproj.AssemblyReference.cache
+C:\Users\Boris\source\repos\dvaXML\dvaXML\obj\Debug\dvaXML.csproj.CoreCompileInputs.cache
+C:\Users\Boris\source\repos\dvaXML\dvaXML\obj\Debug\dvaXML.exe
+C:\Users\Boris\source\repos\dvaXML\dvaXML\obj\Debug\dvaXML.pdb
